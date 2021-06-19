@@ -1,6 +1,6 @@
 # Parcial NodeJS
 ## Por Matias Cantarutti (19/06/2021) 2º1
-![Imagen el diagrama en Workbench](https://cdn.discordapp.com/attachments/709491479311286373/855722195882999838/Diagrama_workbench.png)
+![Imagen el diagrama en Workbench](https://raw.githubusercontent.com/Matias-C-tt/Parcial_Carrito-nodejs/main/Diagrama%20workbench.png)
 
 ---
 ## npm init -y
